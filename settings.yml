@@ -1,0 +1,4 @@
+svg_icons: 
+  default: 'far-bell|fa-bell|fa-at|fa-bell-slash'
+  type: 'list'
+  list_type: 'compact'
